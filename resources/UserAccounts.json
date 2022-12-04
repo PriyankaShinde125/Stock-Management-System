@@ -1,0 +1,41 @@
+[
+  {
+    "password": "ps@123",
+    "balance": "100000.0",
+    "stock": [
+      {
+        "sharePrice": "250.0",
+        "numberOfShares": "5",
+        "shareName": "jkl"
+      },
+      {
+        "sharePrice": "25.0",
+        "numberOfShares": "10",
+        "shareName": "nmk"
+      },
+      {
+        "sharePrice": "25.0",
+        "numberOfShares": "100",
+        "shareName": "abc"
+      }
+    ],
+    "userName": "priyanka"
+  },
+  {
+    "password": "xyz@123",
+    "balance": "199500.0",
+    "stock": [
+      {
+        "sharePrice": "250.0",
+        "numberOfShares": "5",
+        "shareName": "rty"
+      },
+      {
+        "sharePrice": "25.0",
+        "numberOfShares": "20",
+        "shareName": "abc"
+      }
+    ],
+    "userName": "xyz"
+  }
+]
